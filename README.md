@@ -11,7 +11,7 @@
 * **Contact:** charansainettam@gmail.com | jayiit12993@gmail.com
 ---
 
-> ** Strict Confidentiality Notice:** The source code for this project is highly confidential and proprietary. This repository serves strictly as a comprehensive technical overview and research showcase. For inquiries or further details, please contact the contributors directly via email at jayiit12993@gmail.com or charansainettam@gmail.com.
+> ** Strict Confidentiality Notice:** The source code for this project is highly confidential and proprietary. This repository serves strictly as a comprehensive technical overview and research showcase. For inquiries or further details, please contact the contributors directly via email at charansainettam@gmail.com or jayiit12993@gmail.com.
 
 ---
 
