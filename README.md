@@ -3,6 +3,8 @@
   <p><i>A DRDO-RCI Research Initiative compliant with MIL-STD 1553</i></p>
 </div>
 
+---
+
 ### 📌 Project Leadership & Contributions
 * **Project Manager:** Jagadish Prasad (Senior Scientist- 'F', DRDO-RCI, Hyderabad)
 * **Project Team:** Nettam Charan Sai, Bobbili Sai Jayanth, Vaddi Keshava Reddy, Sankula Madhav
