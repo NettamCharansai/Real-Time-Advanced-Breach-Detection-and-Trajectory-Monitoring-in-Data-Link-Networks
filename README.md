@@ -1,9 +1,12 @@
 <div align="center">
-  <h2>REAL-TIME ADVANCED BREACH DETECTION AND TRAJECTORY MONITORING IN DATA LINK NETWORKS FOR ENHANCED PROPULSION AND COMBUSTION SYSTEMS</h2>
-  <p><b>PROJECT CONTRIBUTORS:</b> Bobbili Sai Jayanth, Charan Sai Nettam</p>
-  <p><b>PROJECT MANAGER:</b> Jagadish Prasad (Senior Scientist- 'F', DRDO-RCI, Hyderabad)</p>
+  <h2>Real-Time Breach Detection and Trajectory Monitoring in Data Link Networks</h2>
+  <p><i>A DRDO-RCI Research Initiative compliant with MIL-STD 1553</i></p>
 </div>
 
+### 📌 Project Leadership & Contributions
+* **Project Manager:** Jagadish Prasad (Senior Scientist- 'F', DRDO-RCI, Hyderabad)
+* **Project Team:** Nettam Charan Sai, Bobbili Sai Jayanth, Vaddi Keshava Reddy, Sankula Madhav
+* **Contact:** charansainettam@gmail.com | jayiit12993@gmail.com
 ---
 
 > **🔒 Strict Confidentiality Notice:** The source code for this project is highly confidential and proprietary. This repository serves strictly as a comprehensive technical overview and research showcase. For inquiries or further details, please contact the contributors directly via email at jayiit12993@gmail.com or charansainettam@gmail.com.
